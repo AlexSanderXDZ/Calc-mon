@@ -24,7 +24,7 @@ body{
     flex-direction: column;   
     width: 240px;
     height: 450px;
-    border-radius: 8px 0px 0px 8px;
+    border-radius: 8px 0px 0px 8px; 
 }
 .hist{
     background-color: rgb(62, 65, 64);
